@@ -1,0 +1,22 @@
+{
+  "name": "paguzati",
+  "version": "1.0.0",
+  "description": "varies functions to compare and check pair of objects or arrays",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parghuzat/lotide.git"
+  },
+  "author": "paguzati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parghuzat/lotide/issues"
+  },
+  "homepage": "https://github.com/Parghuzat/lotide#readme"
+}
